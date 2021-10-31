@@ -1,4 +1,4 @@
-package com.correction.model;
+package com.correction.model.manytoone;
 
 import java.util.Date;
 

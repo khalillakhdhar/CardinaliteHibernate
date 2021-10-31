@@ -1,4 +1,4 @@
-package com.correction.model;
+package com.correction.model.manytoone;
 
 import javax.persistence.Entity;
 import javax.persistence.FetchType;
