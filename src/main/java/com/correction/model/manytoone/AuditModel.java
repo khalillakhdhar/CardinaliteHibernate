@@ -38,7 +38,13 @@ public void setCreatedAt(Date createdAt) {
 }
 public Date getUpdatedAt() {
 	return updatedAt;
+	 
 }
+
+
+
+
+
 public void setUpdatedAt(Date updatedAt) {
 	this.updatedAt = updatedAt;
 }
